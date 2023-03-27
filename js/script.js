@@ -10,8 +10,8 @@
  */
 function calculate () {
   // input
-  const H = parseInt(document.getElementById('H of Triangle').value)
-  const B = parseInt(document.getElementById('B of Triangle').value)
+  const H = parseInt(document.getElementById('H of parallelogram').value)
+  const B = parseInt(document.getElementById('B of parallelogram').value)
 
   // process
   const area = H * B
